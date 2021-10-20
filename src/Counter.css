@@ -1,0 +1,8 @@
+.Counter{
+    border: solid black 3px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
